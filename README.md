@@ -9,8 +9,9 @@ This is the landing repo for the MUDE course at the Department of Civil Engineer
 ## **Assignments**
    * Assignment-0 (Setting the system up): &emsp; [Assignment-0 repo](https://github.com/mude-sel-2025/assignment-0) &emsp; | &emsp;  [Accept Assignment-0 (GitHub Classroom)](https://classroom.github.com/a/Oyk9wOrn)
    * Assignment-1 (Numerical Modeling): &emsp; [Assignment-1 repo](https://github.com/mude-sel-2025/assmt-1) &emsp; | &emsp;  [Accept Assignment-1 (GitHub Classroom)](https://classroom.github.com/a/3XMALFC0)
-   * Assignment-2 (Numerical Modeling): &emsp; [Assignment-2 repo](https://github.com/mude-sel-2025/mude-sel-2025-class-assmt-2-Assignment_02) &emsp; | &emsp;  [Accept Assignment-2 (GitHub Classroom)](https://classroom.github.com/a/jM9TtrIh)
-   * Assignment-3 (Linear Algebra - Eigenvalue Problem): &emsp; [Assignment-3 repo](https://github.com/mude-sel-2025/mude-sel-2025-class-assmt-3-Assignment-3) &emsp; | &emsp;  [Accept Assignment-3 (GitHub Classroom)](https://classroom.github.com/a/_lQ33kG0)
+   * Assignment-2 (Numerical Modeling): &emsp; [Assignment-2 repo](https://github.com/mude-sel-2025/Assignment_02) &emsp; | &emsp;  [Accept Assignment-2 (GitHub Classroom)](https://classroom.github.com/a/jM9TtrIh)
+   * Assignment-3 (Linear Algebra - Eigenvalue Problem): &emsp; [Assignment-3 repo](https://github.com/mude-sel-2025/Assignment-3) &emsp; | &emsp;  [Accept Assignment-3 (GitHub Classroom)](https://classroom.github.com/a/_lQ33kG0) | &emsp;  [Accept Assignment-3a (GitHub Classroom)](https://classroom.github.com/a/O_eheFBo)
+   * Assignment-4 (Optimization): &emsp; [Assignment-4 repo](https://github.com/mude-sel-2025/Assignment-4) &emsp; | &emsp;  [Accept Assignment-4 (GitHub Classroom)](https://classroom.github.com/a/9Aikc5cJ)
 
 ## **References: Teachbook**
    * MUDE Teach book from TU Delft https://mude.citg.tudelft.nl/book/2024/intro.html
