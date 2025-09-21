@@ -23,7 +23,7 @@ This is the landing repo for the MUDE course at the Department of Civil Engineer
 
 ## **References: Python**
    * Python official tutorial (if you are new to _Python_ but not to _programming_) https://docs.python.org/3/tutorial/index.html (Go through Chapters 3, 4, and 5)
-   * Python basics teach book https://teachbooks.io/learn-python/01/Theory/01.html
+   * Python basics teach book https://tudelft-citg.github.io/learn-python/intro.html
    * Python for Programmers (long list) https://wiki.python.org/moin/BeginnersGuide/Programmers
    * Python for Non-Programmers (long list) https://wiki.python.org/moin/BeginnersGuide/NonProgrammers
 
