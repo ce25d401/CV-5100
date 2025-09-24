@@ -16,6 +16,7 @@ This is the landing repo for the MUDE course at the Department of Civil Engineer
 | Assignment-3 | Linear Algebra – Eigenvalue Problem | [Assignment-3](https://github.com/mude-sel-2025/Assignment-3)| [Accept Assignment-3](https://classroom.github.com/a/_lQ33kG0)
 | Assignment-4 | Optimization                    | [Assignment-4](https://github.com/mude-sel-2025/Assignment-4)|  [Accept Assignment-4](https://classroom.github.com/a/9Aikc5cJ)
 | Assignment-5 | Uncertainty & Estimation        | [Assignment-5](https://github.com/mude-sel-2025/Assignment-5)| [Accept Assignment-5](https://classroom.github.com/a/Pc4F418W)
+| Assignment-6 | CLT & CI                        | [Assignment-6](https://github.com/mude-sel-2025/Assignment-6)| [Accept Assignment-6](https://classroom.github.com/a/jiasWX1f) 
 
 
 ## **References: Teachbook**
