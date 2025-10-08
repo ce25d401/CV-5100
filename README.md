@@ -18,7 +18,9 @@ This is the landing repo for the MUDE course at the Department of Civil Engineer
 | Assignment-5 | Uncertainty & Estimation        | [Assignment-5](https://github.com/mude-sel-2025/Assignment-5)| [Accept Assignment-5](https://classroom.github.com/a/Pc4F418W)
 | Assignment-6 | CLT & CI                        | [Assignment-6](https://github.com/mude-sel-2025/Assignment-6)| [Accept Assignment-6](https://classroom.github.com/a/jiasWX1f) 
 | Assignment-7 | Regression & Model Diagnostics    | [Assignment-7](https://github.com/mude-sel-2025/Assignment-7)| [Accept Assignment-7](https://classroom.github.com/a/jhTtzUNv)
+| Assignment-8 | Sampling & Reliability    | [Assignment-8](https://github.com/mude-sel-2025/Assignment-8)| [Accept Assignment-8](https://classroom.github.com/a/MEijjHO9)
 
+[Survey for Part-2 of MUDE](https://forms.gle/wqfdvNNXSPZv1KuP6)
 
 ## **References: Teachbook**
    * MUDE Teach book from TU Delft https://mude.citg.tudelft.nl/book/2024/intro.html
