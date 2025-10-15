@@ -19,6 +19,7 @@ This is the landing repo for the MUDE course at the Department of Civil Engineer
 | Assignment-6 | CLT & CI                        | [Assignment-6](https://github.com/mude-sel-2025/Assignment-6)| [Accept Assignment-6](https://classroom.github.com/a/jiasWX1f) 
 | Assignment-7 | Regression & Model Diagnostics    | [Assignment-7](https://github.com/mude-sel-2025/Assignment-7)| [Accept Assignment-7](https://classroom.github.com/a/jhTtzUNv)
 | Assignment-8 | Sampling & Reliability    | [Assignment-8](https://github.com/mude-sel-2025/Assignment-8)| [Accept Assignment-8](https://classroom.github.com/a/MEijjHO9)
+| Assignment-9 | Fourier Series             | [Assignment-9](https://github.com/mude-sel-2025/Assignment-9) | [Accept Assignment-9](https://classroom.github.com/a/YzY5VAcZ)
 
 [Survey for Part-2 of MUDE](https://forms.gle/wqfdvNNXSPZv1KuP6)
 
