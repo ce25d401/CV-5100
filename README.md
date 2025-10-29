@@ -21,6 +21,7 @@ This is the landing repo for the MUDE course at the Department of Civil Engineer
 | Assignment-8 | Sampling & Reliability    | [Assignment-8](https://github.com/mude-sel-2025/Assignment-8)| [Accept Assignment-8](https://classroom.github.com/a/MEijjHO9)
 | Assignment-9 | Fourier Series             | [Assignment-9](https://github.com/mude-sel-2025/Assignment-9) | [Accept Assignment-9](https://classroom.github.com/a/YzY5VAcZ)
 | Assignment-10| Fourier Transform & FFT | [Assigment-10](https://github.com/mude-sel-2025/Assignment-10) | [Accept-Assignment-10](https://classroom.github.com/a/EmoQ5JCZ)
+| Assignment-11| Time Series Analysis   | [Assignment-11](https://github.com/mude-sel-2025/Assignment-11) | [Accept-Assignment-11](https://classroom.github.com/a/8-RN2shW)
 
 [Survey for Part-2 of MUDE](https://forms.gle/wqfdvNNXSPZv1KuP6)
 
